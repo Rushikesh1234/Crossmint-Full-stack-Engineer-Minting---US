@@ -1,2 +1,48 @@
 # Crossmint-Full-stack-Engineer-Minting---US
-megaverse-challenge-Crossmint | Full-stack Engineer Minting - US
+
+## Overview
+
+This project is part of the Megaverse Challenge, where I aim to create a system for managing entities in a game-like environment. The core functionality involves handling requests to create and manage entities based on a given goal map.
+
+## Features
+
+- **Entity Management:** Create and manage entities based on input data.
+- **API Integration:** Utilizes Axios for API requests to the backend.
+- **Error Handling:** Implements robust error handling for API requests, including handling rate limits.
+
+## Technologies Used
+
+- JavaScript
+- Node.js
+- Axios
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js installed on your machine
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Rushikesh1234/Crossmint-Full-stack-Engineer-Minting---US.git
+   cd Crossmint-Full-stack-Engineer-Minting---US
+
+2. Install the required dependencies:
+
+   ```bash
+   npm install
+
+### Usage
+Start the application:
+
+  ```bash
+  node phase2.js
+  ```
+
+### Output
+
+<img width="745" alt="image" src="https://github.com/user-attachments/assets/6950d24e-6296-42dd-baa0-1ef0edd340c3">
+
